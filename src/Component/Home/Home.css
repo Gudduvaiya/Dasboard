@@ -1,0 +1,22 @@
+/* First Section  */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Shizuru&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=PT+Sans&family=Shizuru&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=PT+Sans:ital,wght@0,700;1,400&family=Pushster&family=Shizuru&display=swap');
+
+
+/* Second Section  */
+.secondbody{
+    height: 300px;
+    background-color: rgb(189, 194, 192);
+}
+
+
+
+
+/* Third Section  */
+.thirdbody{
+    height: 300px;
+    background-color: rgb(16, 68, 51);
+}
